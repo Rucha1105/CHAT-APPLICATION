@@ -112,4 +112,5 @@ Send messages and see them appear in real-time across all connected clients.
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/a2ea4f8a-e039-4aac-be9f-5c6b6726b57d)
 
